@@ -1,0 +1,2 @@
+['I', "couldn't", 'believe', 'that', 'I', 'could', 'actually', 'understand', 'what', 'I', 'was', 'reading', ':', 'the', 'phenomenal', 'power', 'of', 'the', 'human', 'mind', '.']
+['I', "cln'uodt", 'beevlie', 'that', 'I', 'culod', 'allacuty', 'urdtneasnd', 'what', 'I', 'was', 'raneidg', ':', 'the', 'pennoheaml', 'power', 'of', 'the', 'hmuan', 'mind', '.']
