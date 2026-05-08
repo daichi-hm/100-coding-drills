@@ -1,0 +1,7 @@
+set X: {'se', 'pa', 'ra', 'di', 'ar', 'is', 'ap', 'ad'}
+set Y: {'gr', 'pa', 'ra', 'ar', 'ag', 'ap', 'ph'}
+Union: {'se', 'gr', 'pa', 'ra', 'di', 'ar', 'ag', 'is', 'ap', 'ph', 'ad'}
+Intersection: {'ar', 'pa', 'ra', 'ap'}
+Difference: {'ad', 'is', 'se', 'di'}
+"se" belongs to set X
+"se" doesn't belong to set Y
