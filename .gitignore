@@ -9,4 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
-.envchapter6/GoogleNews-vectors-negative300.bin.gz
+# Environment variables
+.env
+
+# Large model/data files
+chapter6/GoogleNews-vectors-negative300.bin.gz
