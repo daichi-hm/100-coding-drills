@@ -14,3 +14,5 @@ wheels/
 
 # Large model/data files
 chapter6/GoogleNews-vectors-negative300.bin.gz
+
+chapter8/data/
