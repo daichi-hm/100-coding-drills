@@ -220,12 +220,7 @@ def collate_batch(batch):
 
 
 def main():
-    print("71番: SST-2を読み込み、トークンID列に変換します。")
-
-    print(f"EMBEDDING_FILE: {EMBEDDING_FILE}")
-    print(f"TRAIN_FILE: {TRAIN_FILE}")
-    print(f"DEV_FILE: {DEV_FILE}")
-
+    print("SST-2を読み込み、トークンID列に変換します。")
     # =========================
     # 70番で保存したデータを読み込む
     # =========================
@@ -299,3 +294,30 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# 出力
+# SST-2を読み込み、トークンID列に変換します。
+# 語彙数: 300001
+# train.tsv: 元データ数 = 67349
+# train.tsv: 削除したデータ数 = 953
+# train.tsv: 使用するデータ数 = 66396
+# dev.tsv: 元データ数 = 872
+# dev.tsv: 削除したデータ数 = 0
+# dev.tsv: 使用するデータ数 = 872
+# train_dataset のデータ数: 66396
+# dev_dataset のデータ数: 872
+
+# train_dataset の先頭1件:
+# {'text': 'hide new secretions from the parental units ', 'input_ids': tensor([  5785,     66, 113845,     18,     12,  15095,   1594]), 'label': tensor(0)}
+
+# train_loader から取り出した1バッチ:
+# text: ['clever , ', 'hilariously , gloriously alive ', 'smart and alert , thirteen conversations about one thing is a small gem . ', 'susan sarandon , dustin hoffman and holly hunter , ']
+# input_ids の形: torch.Size([4, 10])
+# label: tensor([1, 1, 1, 1])
+# lengths: tensor([ 1,  3, 10,  2])
+
+# dev_loader から取り出した1バッチ:
+# text: ["it 's a charming and often affecting journey . ", 'unflinchingly bleak and desperate ', 'allows us to hope that nolan is poised to embark a major career as a commercial yet inventive filmmaker . ', "the acting , costumes , music , cinematography and sound are all astounding given the production 's austere locales . "]
+# input_ids の形: torch.Size([4, 14])
+# label: tensor([1, 0, 1, 1])
+# lengths: tensor([ 5,  3, 14, 14])
