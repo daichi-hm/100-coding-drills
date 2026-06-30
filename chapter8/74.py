@@ -426,7 +426,7 @@ if __name__ == "__main__":
 # 学習済みモデルを読み込みました
 
 # 評価結果
-# train loss: 0.3735
-# train accuracy: 0.8412
-# dev loss: 0.4610
+# train loss: 0.3732
+# train accuracy: 0.8411
+# dev loss: 0.4578
 # dev accuracy: 0.7924

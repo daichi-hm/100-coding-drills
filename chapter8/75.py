@@ -324,10 +324,10 @@ if __name__ == "__main__":
 
 # 先頭4件をcollate_batchに渡した結果:
 # text:
-#   that loves its characters and communicates something rather beautiful about human nature
-#   hide new secretions from the parental units
-#   remains utterly satisfied to remain the same throughout
-#   contains no wit , only labored gags
+#   that loves its characters and communicates something rather beautiful about human nature 
+#   hide new secretions from the parental units 
+#   remains utterly satisfied to remain the same throughout 
+#   contains no wit , only labored gags 
 
 # input_ids:
 # tensor([[     4,   5053,     45,   3305,  31647,    348,    904,   2815,     47,

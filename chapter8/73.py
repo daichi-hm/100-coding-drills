@@ -497,59 +497,59 @@ if __name__ == "__main__":
 # )
 # 全パラメータ数: 90000902
 # 学習対象パラメータ数: 602
-# epoch 1 | step 100/1038 | loss 0.6344 | accuracy 0.6633
-# epoch 1 | step 200/1038 | loss 0.5969 | accuracy 0.7173
-# epoch 1 | step 300/1038 | loss 0.5691 | accuracy 0.7483
-# epoch 1 | step 400/1038 | loss 0.5480 | accuracy 0.7657
-# epoch 1 | step 500/1038 | loss 0.5317 | accuracy 0.7764
-# epoch 1 | step 600/1038 | loss 0.5183 | accuracy 0.7833
-# epoch 1 | step 700/1038 | loss 0.5073 | accuracy 0.7891
-# epoch 1 | step 800/1038 | loss 0.4986 | accuracy 0.7935
-# epoch 1 | step 900/1038 | loss 0.4902 | accuracy 0.7969
-# epoch 1 | step 1000/1038 | loss 0.4829 | accuracy 0.7992
-# [epoch 1 finished] loss 0.4809 | accuracy 0.7999
-# epoch 2 | step 100/1038 | loss 0.4100 | accuracy 0.8258
-# epoch 2 | step 200/1038 | loss 0.4050 | accuracy 0.8290
-# epoch 2 | step 300/1038 | loss 0.4078 | accuracy 0.8277
-# epoch 2 | step 400/1038 | loss 0.4072 | accuracy 0.8280
-# epoch 2 | step 500/1038 | loss 0.4069 | accuracy 0.8285
-# epoch 2 | step 600/1038 | loss 0.4034 | accuracy 0.8301
-# epoch 2 | step 700/1038 | loss 0.4024 | accuracy 0.8305
-# epoch 2 | step 800/1038 | loss 0.4018 | accuracy 0.8310
-# epoch 2 | step 900/1038 | loss 0.4011 | accuracy 0.8314
-# epoch 2 | step 1000/1038 | loss 0.4002 | accuracy 0.8313
-# [epoch 2 finished] loss 0.3999 | accuracy 0.8317
-# epoch 3 | step 100/1038 | loss 0.3953 | accuracy 0.8353
-# epoch 3 | step 200/1038 | loss 0.3874 | accuracy 0.8378
-# epoch 3 | step 300/1038 | loss 0.3865 | accuracy 0.8369
-# epoch 3 | step 400/1038 | loss 0.3858 | accuracy 0.8377
-# epoch 3 | step 500/1038 | loss 0.3852 | accuracy 0.8380
-# epoch 3 | step 600/1038 | loss 0.3836 | accuracy 0.8384
-# epoch 3 | step 700/1038 | loss 0.3840 | accuracy 0.8383
-# epoch 3 | step 800/1038 | loss 0.3842 | accuracy 0.8372
-# epoch 3 | step 900/1038 | loss 0.3845 | accuracy 0.8373
-# epoch 3 | step 1000/1038 | loss 0.3840 | accuracy 0.8379
-# [epoch 3 finished] loss 0.3846 | accuracy 0.8374
-# epoch 4 | step 100/1038 | loss 0.3838 | accuracy 0.8367
-# epoch 4 | step 200/1038 | loss 0.3805 | accuracy 0.8396
-# epoch 4 | step 300/1038 | loss 0.3839 | accuracy 0.8373
-# epoch 4 | step 400/1038 | loss 0.3861 | accuracy 0.8370
-# epoch 4 | step 500/1038 | loss 0.3860 | accuracy 0.8365
-# epoch 4 | step 600/1038 | loss 0.3833 | accuracy 0.8368
-# epoch 4 | step 700/1038 | loss 0.3818 | accuracy 0.8375
-# epoch 4 | step 800/1038 | loss 0.3803 | accuracy 0.8385
-# epoch 4 | step 900/1038 | loss 0.3788 | accuracy 0.8397
-# epoch 4 | step 1000/1038 | loss 0.3791 | accuracy 0.8393
-# [epoch 4 finished] loss 0.3784 | accuracy 0.8398
-# epoch 5 | step 100/1038 | loss 0.3688 | accuracy 0.8450
-# epoch 5 | step 200/1038 | loss 0.3710 | accuracy 0.8437
-# epoch 5 | step 300/1038 | loss 0.3691 | accuracy 0.8428
-# epoch 5 | step 400/1038 | loss 0.3682 | accuracy 0.8427
-# epoch 5 | step 500/1038 | loss 0.3691 | accuracy 0.8432
-# epoch 5 | step 600/1038 | loss 0.3704 | accuracy 0.8428
-# epoch 5 | step 700/1038 | loss 0.3709 | accuracy 0.8422
-# epoch 5 | step 800/1038 | loss 0.3725 | accuracy 0.8414
-# epoch 5 | step 900/1038 | loss 0.3737 | accuracy 0.8410
-# epoch 5 | step 1000/1038 | loss 0.3742 | accuracy 0.8407
-# [epoch 5 finished] loss 0.3751 | accuracy 0.8406
+# epoch 1 | step 100/1038 | loss 0.6327 | accuracy 0.6748
+# epoch 1 | step 200/1038 | loss 0.5928 | accuracy 0.7338
+# epoch 1 | step 300/1038 | loss 0.5654 | accuracy 0.7568
+# epoch 1 | step 400/1038 | loss 0.5447 | accuracy 0.7737
+# epoch 1 | step 500/1038 | loss 0.5280 | accuracy 0.7824
+# epoch 1 | step 600/1038 | loss 0.5149 | accuracy 0.7878
+# epoch 1 | step 700/1038 | loss 0.5047 | accuracy 0.7933
+# epoch 1 | step 800/1038 | loss 0.4969 | accuracy 0.7957
+# epoch 1 | step 900/1038 | loss 0.4893 | accuracy 0.7988
+# epoch 1 | step 1000/1038 | loss 0.4824 | accuracy 0.8020
+# [epoch 1 finished] loss 0.4801 | accuracy 0.8030
+# epoch 2 | step 100/1038 | loss 0.4175 | accuracy 0.8333
+# epoch 2 | step 200/1038 | loss 0.4164 | accuracy 0.8262
+# epoch 2 | step 300/1038 | loss 0.4127 | accuracy 0.8294
+# epoch 2 | step 400/1038 | loss 0.4104 | accuracy 0.8293
+# epoch 2 | step 500/1038 | loss 0.4079 | accuracy 0.8304
+# epoch 2 | step 600/1038 | loss 0.4051 | accuracy 0.8305
+# epoch 2 | step 700/1038 | loss 0.4040 | accuracy 0.8314
+# epoch 2 | step 800/1038 | loss 0.4028 | accuracy 0.8308
+# epoch 2 | step 900/1038 | loss 0.4007 | accuracy 0.8314
+# epoch 2 | step 1000/1038 | loss 0.4008 | accuracy 0.8313
+# [epoch 2 finished] loss 0.4000 | accuracy 0.8316
+# epoch 3 | step 100/1038 | loss 0.3923 | accuracy 0.8303
+# epoch 3 | step 200/1038 | loss 0.3942 | accuracy 0.8298
+# epoch 3 | step 300/1038 | loss 0.3877 | accuracy 0.8354
+# epoch 3 | step 400/1038 | loss 0.3898 | accuracy 0.8362
+# epoch 3 | step 500/1038 | loss 0.3888 | accuracy 0.8367
+# epoch 3 | step 600/1038 | loss 0.3890 | accuracy 0.8357
+# epoch 3 | step 700/1038 | loss 0.3888 | accuracy 0.8357
+# epoch 3 | step 800/1038 | loss 0.3880 | accuracy 0.8355
+# epoch 3 | step 900/1038 | loss 0.3862 | accuracy 0.8366
+# epoch 3 | step 1000/1038 | loss 0.3851 | accuracy 0.8369
+# [epoch 3 finished] loss 0.3849 | accuracy 0.8370
+# epoch 4 | step 100/1038 | loss 0.3768 | accuracy 0.8383
+# epoch 4 | step 200/1038 | loss 0.3770 | accuracy 0.8413
+# epoch 4 | step 300/1038 | loss 0.3732 | accuracy 0.8413
+# epoch 4 | step 400/1038 | loss 0.3749 | accuracy 0.8409
+# epoch 4 | step 500/1038 | loss 0.3761 | accuracy 0.8405
+# epoch 4 | step 600/1038 | loss 0.3771 | accuracy 0.8398
+# epoch 4 | step 700/1038 | loss 0.3776 | accuracy 0.8407
+# epoch 4 | step 800/1038 | loss 0.3777 | accuracy 0.8405
+# epoch 4 | step 900/1038 | loss 0.3783 | accuracy 0.8399
+# epoch 4 | step 1000/1038 | loss 0.3786 | accuracy 0.8395
+# [epoch 4 finished] loss 0.3785 | accuracy 0.8398
+# epoch 5 | step 100/1038 | loss 0.3933 | accuracy 0.8378
+# epoch 5 | step 200/1038 | loss 0.3887 | accuracy 0.8359
+# epoch 5 | step 300/1038 | loss 0.3839 | accuracy 0.8389
+# epoch 5 | step 400/1038 | loss 0.3793 | accuracy 0.8409
+# epoch 5 | step 500/1038 | loss 0.3771 | accuracy 0.8415
+# epoch 5 | step 600/1038 | loss 0.3757 | accuracy 0.8412
+# epoch 5 | step 700/1038 | loss 0.3751 | accuracy 0.8413
+# epoch 5 | step 800/1038 | loss 0.3752 | accuracy 0.8412
+# epoch 5 | step 900/1038 | loss 0.3754 | accuracy 0.8412
+# epoch 5 | step 1000/1038 | loss 0.3757 | accuracy 0.8410
+# [epoch 5 finished] loss 0.3752 | accuracy 0.8412
 # 学習済みモデルを保存しました

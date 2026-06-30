@@ -618,59 +618,59 @@ if __name__ == "__main__":
 # )
 # 全パラメータ数: 90000902
 # 学習対象パラメータ数: 602
-# epoch 1 | step 100/1038 | train loss 0.6395 | train accuracy 0.6439
-# epoch 1 | step 200/1038 | train loss 0.6021 | train accuracy 0.7079
-# epoch 1 | step 300/1038 | train loss 0.5730 | train accuracy 0.7355
-# epoch 1 | step 400/1038 | train loss 0.5520 | train accuracy 0.7539
-# epoch 1 | step 500/1038 | train loss 0.5355 | train accuracy 0.7668
-# epoch 1 | step 600/1038 | train loss 0.5217 | train accuracy 0.7759
-# epoch 1 | step 700/1038 | train loss 0.5097 | train accuracy 0.7827
-# epoch 1 | step 800/1038 | train loss 0.4999 | train accuracy 0.7880
-# epoch 1 | step 900/1038 | train loss 0.4920 | train accuracy 0.7922
-# epoch 1 | step 1000/1038 | train loss 0.4852 | train accuracy 0.7951
-# [epoch 1 finished] train loss 0.4826 | train accuracy 0.7963 | dev loss 0.5058 | dev accuracy 0.7810
-# epoch 2 | step 100/1038 | train loss 0.4052 | train accuracy 0.8361
-# epoch 2 | step 200/1038 | train loss 0.4071 | train accuracy 0.8304
-# epoch 2 | step 300/1038 | train loss 0.4069 | train accuracy 0.8308
-# epoch 2 | step 400/1038 | train loss 0.4038 | train accuracy 0.8323
-# epoch 2 | step 500/1038 | train loss 0.4045 | train accuracy 0.8317
-# epoch 2 | step 600/1038 | train loss 0.4034 | train accuracy 0.8323
-# epoch 2 | step 700/1038 | train loss 0.4021 | train accuracy 0.8323
-# epoch 2 | step 800/1038 | train loss 0.4005 | train accuracy 0.8330
-# epoch 2 | step 900/1038 | train loss 0.4000 | train accuracy 0.8326
-# epoch 2 | step 1000/1038 | train loss 0.3999 | train accuracy 0.8325
-# [epoch 2 finished] train loss 0.4001 | train accuracy 0.8326 | dev loss 0.4782 | dev accuracy 0.7856
-# epoch 3 | step 100/1038 | train loss 0.3956 | train accuracy 0.8383
-# epoch 3 | step 200/1038 | train loss 0.3912 | train accuracy 0.8377
-# epoch 3 | step 300/1038 | train loss 0.3864 | train accuracy 0.8398
-# epoch 3 | step 400/1038 | train loss 0.3863 | train accuracy 0.8385
-# epoch 3 | step 500/1038 | train loss 0.3863 | train accuracy 0.8381
-# epoch 3 | step 600/1038 | train loss 0.3856 | train accuracy 0.8376
-# epoch 3 | step 700/1038 | train loss 0.3860 | train accuracy 0.8363
-# epoch 3 | step 800/1038 | train loss 0.3842 | train accuracy 0.8372
-# epoch 3 | step 900/1038 | train loss 0.3842 | train accuracy 0.8368
-# epoch 3 | step 1000/1038 | train loss 0.3841 | train accuracy 0.8374
-# [epoch 3 finished] train loss 0.3848 | train accuracy 0.8372 | dev loss 0.4656 | dev accuracy 0.7924
-# epoch 4 | step 100/1038 | train loss 0.3830 | train accuracy 0.8420
-# epoch 4 | step 200/1038 | train loss 0.3787 | train accuracy 0.8394
-# epoch 4 | step 300/1038 | train loss 0.3774 | train accuracy 0.8406
-# epoch 4 | step 400/1038 | train loss 0.3786 | train accuracy 0.8391
-# epoch 4 | step 500/1038 | train loss 0.3781 | train accuracy 0.8398
-# epoch 4 | step 600/1038 | train loss 0.3780 | train accuracy 0.8403
-# epoch 4 | step 700/1038 | train loss 0.3793 | train accuracy 0.8398
-# epoch 4 | step 800/1038 | train loss 0.3794 | train accuracy 0.8393
-# epoch 4 | step 900/1038 | train loss 0.3791 | train accuracy 0.8394
-# epoch 4 | step 1000/1038 | train loss 0.3785 | train accuracy 0.8397
-# [epoch 4 finished] train loss 0.3784 | train accuracy 0.8395 | dev loss 0.4616 | dev accuracy 0.7913
-# epoch 5 | step 100/1038 | train loss 0.3809 | train accuracy 0.8400
-# epoch 5 | step 200/1038 | train loss 0.3797 | train accuracy 0.8402
-# epoch 5 | step 300/1038 | train loss 0.3776 | train accuracy 0.8410
-# epoch 5 | step 400/1038 | train loss 0.3775 | train accuracy 0.8405
-# epoch 5 | step 500/1038 | train loss 0.3773 | train accuracy 0.8400
-# epoch 5 | step 600/1038 | train loss 0.3754 | train accuracy 0.8414
-# epoch 5 | step 700/1038 | train loss 0.3761 | train accuracy 0.8412
-# epoch 5 | step 800/1038 | train loss 0.3760 | train accuracy 0.8406
-# epoch 5 | step 900/1038 | train loss 0.3749 | train accuracy 0.8413
-# epoch 5 | step 1000/1038 | train loss 0.3757 | train accuracy 0.8408
-# [epoch 5 finished] train loss 0.3752 | train accuracy 0.8410 | dev loss 0.4584 | dev accuracy 0.7947
+# epoch 1 | step 100/1038 | train loss 0.6348 | train accuracy 0.6480
+# epoch 1 | step 200/1038 | train loss 0.5975 | train accuracy 0.7126
+# epoch 1 | step 300/1038 | train loss 0.5681 | train accuracy 0.7433
+# epoch 1 | step 400/1038 | train loss 0.5486 | train accuracy 0.7579
+# epoch 1 | step 500/1038 | train loss 0.5319 | train accuracy 0.7701
+# epoch 1 | step 600/1038 | train loss 0.5193 | train accuracy 0.7778
+# epoch 1 | step 700/1038 | train loss 0.5085 | train accuracy 0.7835
+# epoch 1 | step 800/1038 | train loss 0.4988 | train accuracy 0.7899
+# epoch 1 | step 900/1038 | train loss 0.4907 | train accuracy 0.7931
+# epoch 1 | step 1000/1038 | train loss 0.4839 | train accuracy 0.7962
+# [epoch 1 finished] train loss 0.4816 | train accuracy 0.7969 | dev loss 0.5032 | dev accuracy 0.7878
+# epoch 2 | step 100/1038 | train loss 0.4104 | train accuracy 0.8313
+# epoch 2 | step 200/1038 | train loss 0.4118 | train accuracy 0.8282
+# epoch 2 | step 300/1038 | train loss 0.4098 | train accuracy 0.8286
+# epoch 2 | step 400/1038 | train loss 0.4088 | train accuracy 0.8284
+# epoch 2 | step 500/1038 | train loss 0.4054 | train accuracy 0.8302
+# epoch 2 | step 600/1038 | train loss 0.4047 | train accuracy 0.8308
+# epoch 2 | step 700/1038 | train loss 0.4037 | train accuracy 0.8304
+# epoch 2 | step 800/1038 | train loss 0.4022 | train accuracy 0.8312
+# epoch 2 | step 900/1038 | train loss 0.4012 | train accuracy 0.8314
+# epoch 2 | step 1000/1038 | train loss 0.4004 | train accuracy 0.8320
+# [epoch 2 finished] train loss 0.4000 | train accuracy 0.8319 | dev loss 0.4774 | dev accuracy 0.7821
+# epoch 3 | step 100/1038 | train loss 0.3870 | train accuracy 0.8320
+# epoch 3 | step 200/1038 | train loss 0.3918 | train accuracy 0.8322
+# epoch 3 | step 300/1038 | train loss 0.3875 | train accuracy 0.8346
+# epoch 3 | step 400/1038 | train loss 0.3855 | train accuracy 0.8361
+# epoch 3 | step 500/1038 | train loss 0.3866 | train accuracy 0.8367
+# epoch 3 | step 600/1038 | train loss 0.3862 | train accuracy 0.8363
+# epoch 3 | step 700/1038 | train loss 0.3862 | train accuracy 0.8358
+# epoch 3 | step 800/1038 | train loss 0.3851 | train accuracy 0.8366
+# epoch 3 | step 900/1038 | train loss 0.3848 | train accuracy 0.8366
+# epoch 3 | step 1000/1038 | train loss 0.3846 | train accuracy 0.8368
+# [epoch 3 finished] train loss 0.3848 | train accuracy 0.8367 | dev loss 0.4679 | dev accuracy 0.7844
+# epoch 4 | step 100/1038 | train loss 0.3753 | train accuracy 0.8400
+# epoch 4 | step 200/1038 | train loss 0.3794 | train accuracy 0.8407
+# epoch 4 | step 300/1038 | train loss 0.3728 | train accuracy 0.8421
+# epoch 4 | step 400/1038 | train loss 0.3762 | train accuracy 0.8390
+# epoch 4 | step 500/1038 | train loss 0.3752 | train accuracy 0.8402
+# epoch 4 | step 600/1038 | train loss 0.3760 | train accuracy 0.8404
+# epoch 4 | step 700/1038 | train loss 0.3757 | train accuracy 0.8410
+# epoch 4 | step 800/1038 | train loss 0.3764 | train accuracy 0.8402
+# epoch 4 | step 900/1038 | train loss 0.3768 | train accuracy 0.8395
+# epoch 4 | step 1000/1038 | train loss 0.3782 | train accuracy 0.8395
+# [epoch 4 finished] train loss 0.3785 | train accuracy 0.8397 | dev loss 0.4593 | dev accuracy 0.7924
+# epoch 5 | step 100/1038 | train loss 0.3590 | train accuracy 0.8494
+# epoch 5 | step 200/1038 | train loss 0.3688 | train accuracy 0.8445
+# epoch 5 | step 300/1038 | train loss 0.3713 | train accuracy 0.8421
+# epoch 5 | step 400/1038 | train loss 0.3694 | train accuracy 0.8422
+# epoch 5 | step 500/1038 | train loss 0.3720 | train accuracy 0.8403
+# epoch 5 | step 600/1038 | train loss 0.3733 | train accuracy 0.8403
+# epoch 5 | step 700/1038 | train loss 0.3723 | train accuracy 0.8410
+# epoch 5 | step 800/1038 | train loss 0.3736 | train accuracy 0.8410
+# epoch 5 | step 900/1038 | train loss 0.3745 | train accuracy 0.8409
+# epoch 5 | step 1000/1038 | train loss 0.3748 | train accuracy 0.8411
+# [epoch 5 finished] train loss 0.3752 | train accuracy 0.8409 | dev loss 0.4572 | dev accuracy 0.7959
 # 学習済みモデルを保存しました

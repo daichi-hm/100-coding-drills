@@ -311,10 +311,10 @@ if __name__ == "__main__":
 # {'text': 'hide new secretions from the parental units ', 'input_ids': tensor([  5785,     66, 113845,     18,     12,  15095,   1594]), 'label': tensor(0)}
 
 # train_loader から取り出した1バッチ:
-# text: ['clever , ', 'hilariously , gloriously alive ', 'smart and alert , thirteen conversations about one thing is a small gem . ', 'susan sarandon , dustin hoffman and holly hunter , ']
-# input_ids の形: torch.Size([4, 10])
-# label: tensor([1, 1, 1, 1])
-# lengths: tensor([ 1,  3, 10,  2])
+# text: ['a 90-minute , four-star movie ', 'of its provocative conclusion ', "the future than `` bladerunner '' and one of the most high-concept sci fi adventures attempted for the screen ", 'and unrelentingly exploitative ']
+# input_ids の形: torch.Size([4, 13])
+# label: tensor([1, 1, 1, 0])
+# lengths: tensor([ 1,  3, 13,  2])
 
 # dev_loader から取り出した1バッチ:
 # text: ["it 's a charming and often affecting journey . ", 'unflinchingly bleak and desperate ', 'allows us to hope that nolan is poised to embark a major career as a commercial yet inventive filmmaker . ', "the acting , costumes , music , cinematography and sound are all astounding given the production 's austere locales . "]
