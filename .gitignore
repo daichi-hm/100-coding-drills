@@ -16,3 +16,7 @@ wheels/
 chapter6/GoogleNews-vectors-negative300.bin.gz
 
 chapter8/data/
+
+chapter9/best_bert_sst2.pt
+
+chapter9/best_bert_mean_pooling_sst2.pt
