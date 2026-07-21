@@ -3,17 +3,17 @@ name = "nlp100"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.10,<3.11"
 dependencies = [
-    "cabocha-python==0.69.1",
+    "accelerate>=1.4.0",
     "certifi==2022.5.18.1",
     "charset-normalizer==2.0.12",
     "cycler==0.11.0",
+    "datasets==4.7.0",
     "filelock==3.7.0",
     "fonttools==4.33.3",
     "gensim==4.2.0",
     "google-genai>=2.6.0",
-    "huggingface-hub==0.7.0",
     "idna==3.3",
     "joblib==1.1.0",
     "kiwisolver==1.4.2",
@@ -35,12 +35,25 @@ dependencies = [
     "six==1.16.0",
     "smart-open==6.0.0",
     "threadpoolctl==3.1.0",
-    "tokenizers==0.12.1",
-    "torch==1.11.0",
-    "torchaudio==0.11.0",
-    "torchvision==0.12.0",
-    "tqdm==4.64.0",
-    "transformers==4.19.2",
+    "torch==2.7.1",
+    "tqdm>=4.66.3",
+    "transformers==4.56.2",
+    "trl==1.8.0",
     "typing-extensions>=4.11.0",
     "urllib3==1.26.9",
 ]
+
+[project.optional-dependencies]
+cabocha = [
+    "cabocha-python==0.69.1",
+]
+
+[tool.uv.sources]
+torch = [
+    { index = "pytorch-cu118", marker = "sys_platform == 'linux'" },
+]
+
+[[tool.uv.index]]
+name = "pytorch-cu118"
+url = "https://download.pytorch.org/whl/cu118"
+explicit = true

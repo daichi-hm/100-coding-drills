@@ -20,3 +20,11 @@ chapter8/data/
 chapter9/best_bert_sst2.pt
 
 chapter9/best_bert_mean_pooling_sst2.pt
+
+chapter10/97_classifier.pt
+
+chapter10/98_gpt2_medium_sst2_batch8
+
+chapter10/99_dpo_checkpoints
+
+chapter10/99_gpt2_medium_dpo
